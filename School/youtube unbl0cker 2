@@ -1,0 +1,1 @@
+javascript:alert(%22this%20was%20written%20Bye%20isit1234%22),filter=prompt(%22now%20paste%20video%20URL%22),filter=filter.replace(%22watch%3Fv=%22,%22/embed/%22),filter=filter.concat(%22%26pp=%22),filter=filter.slice(filter.indexof(%22%26pp=%22),filter.length);
